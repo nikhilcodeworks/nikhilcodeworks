@@ -1,25 +1,16 @@
 <div align="center">
 
-  <!-- 3D Spatial Computing Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24&height=240&section=header&text=%E2%AC%A1%20NIKHIL%20%7C%203D%20SPATIAL%20%26%20FULL-STACK%20%E2%AC%A1&fontSize=38&fontAlignY=38&animation=twinkling" width="100%" alt="3D Spatial Banner" />
+  <h1>⬡ NIKHIL | SYSTEMS ARCHITECT ⬡</h1>
+  <p><strong>3D SPATIAL COMPUTING • DISTRIBUTED FULL-STACK • MULTI-MODAL AI</strong></p>
 
-  <!-- Neon Typing Animation SVG -->
+  <!-- High-Performance Neon Typing SVG -->
   <a href="https://github.com/nikhilcodeworks">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=%E2%AC%A1_SPATIAL_COMPUTING_SYSTEMS_ONLINE;%E2%AC%A1_LEAD_ARCHITECT%3A+NEXT.JS_16_+_REACT_THREE_FIBER_+_GSAP;%E2%AC%A1_MULTI_MODAL_AI%3A+GEMINI_VISION_+_VECTOR_RAG;%E2%AC%A1_RENDER_MATRIX%3A+56_PRODUCTION_PROJECTS_DEPLOYED;%E2%AC%A1_CLEARANCE%3A+ENTERPRISE_NDA_PROTECTED" alt="3D Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FFCC&center=true&vCenter=true&width=780&lines=%E2%AC%A1_SPATIAL_COMPUTING_SYSTEMS_ONLINE;%E2%AC%A1_LEAD_ARCHITECT%3A+NEXT.JS_16_+_REACT_THREE_FIBER_+_GSAP;%E2%AC%A1_MULTI_MODAL_AI%3A+GEMINI_VISION_+_VECTOR_RAG;%E2%AC%A1_RENDER_MATRIX%3A+56_PRODUCTION_PROJECTS_DEPLOYED;%E2%AC%A1_CLEARANCE%3A+ENTERPRISE_NDA_PROTECTED" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- 3D Isometric Floating Tech Visual -->
-  <img src="https://media.giphy.com/media/TdfyKrN7HGTIY/giphy.gif" width="340" alt="3D Isometric Tech Workspace" style="border-radius: 14px; filter: drop-shadow(0 15px 30px rgba(0, 255, 204, 0.3));" />
-
-  <br/><br/>
-
-  <p align="center">
-    <code>[ 🪐 3D SPATIAL COMPUTING ]</code> • <code>[ ⚡ WEBGL SHADER PIPELINES ]</code> • <code>[ 🛡️ ENTERPRISE FULL-STACK ARCHITECT ]</code>
-  </p>
-
-  <!-- High-Tech Perspective Status Shields -->
+  <!-- Bulletproof Status Shields -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=nikhilcodeworks&label=TELEMETRY+VISITS&style=for-the-badge&color=00f5d4" alt="Profile Visits" />
     <a href="#-orbiting-databank-56-repositories">
@@ -33,7 +24,7 @@
     </a>
   </p>
 
-  <!-- Interactive Navigation Bar -->
+  <!-- Interactive Quick Navigation -->
   <p align="center">
     <a href="#-3d-architect-manifesto"><code>⬡ [01_MANIFESTO]</code></a> •
     <a href="#-3d--full-stack-weapons-matrix"><code>⬡ [02_TECH_MATRIX]</code></a> •
@@ -43,9 +34,6 @@
     <a href="#-orbiting-databank-56-repositories"><code>⬡ [06_DATABANK_56]</code></a> •
     <a href="#-live-telemetry--metrics"><code>⬡ [07_TELEMETRY]</code></a>
   </p>
-
-  <!-- Pulsing Neon Divider -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider" />
 
 </div>
 
@@ -62,10 +50,6 @@
   ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝
   [ 3D SPATIAL COMPUTING // OPERATOR: NIKHIL // WEBGL CORE INITIALIZED ]
 ```
-
-<table width="100%">
-  <tr>
-    <td width="58%" valign="top">
 
 ```typescript
 interface SystemsArchitect {
@@ -88,32 +72,14 @@ interface SystemsArchitect {
 }
 ```
 
-<p>
-  💡 <em>Engineering next-generation web applications where cinematic 3D visual fidelity meets robust distributed backend systems.</em>
-</p>
-
-</td>
-    <td width="42%" align="center" valign="middle">
-      <!-- 3D Rotating Wireframe Cube Animation -->
-      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="170" alt="3D Wireframe Cube" style="border-radius: 12px; margin-bottom: 12px;" />
-      <br/>
-      <!-- Dynamic Language Donut Chart -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilcodeworks&layout=donut&theme=cyberpunk&hide_border=true&border_radius=12" alt="Language Donut Cyberpunk" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <!-- Pulsing Neon Divider -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider" />
-</div>
+> 💡 **Core Engineering Focus**: Blending high-performance WebGL 3D graphics and kinetic motion design with robust, distributed cloud microservices and generative AI pipelines.
 
 ---
 
 ## 🛠️ 3D & Full-Stack Weapons Matrix
 
 <div align="center">
-  <!-- Animated Dark-Mode Tech Icons -->
+  <!-- Dynamic Dark-Mode Tech Stack Badges -->
   <img src="https://skillicons.dev/icons?i=threejs,next,react,ts,tailwind,nodejs,express,python,fastapi,mongodb,postgres,supabase,docker,git,github,postman,html,css,sass,js&theme=dark&perline=10" alt="Tech Stack Icons" />
 </div>
 
@@ -121,17 +87,12 @@ interface SystemsArchitect {
 
 | Sub-System Layer | Hardware & Software Arsenal | Production Scope |
 | :--- | :--- | :--- |
-| **🪐 3D & Spatial Graphics** | `Three.js`, `React Three Fiber (@react-three/fiber)`, `React Three Drei`, `WebGL Shaders`, `WebGPU`, `GSAP 3 Motion`, `Lenis Inertial Scroll` | Interactive 3D portfolios, physics simulations, WebGL shaders & dynamic particle systems |
-| **⚡ Frontend Engineering** | `Next.js 16 (App Router, Turbopack)`, `React 19`, `TypeScript`, `Tailwind CSS v4`, `Vite`, `Modern CSS Grid / Flexbox` | Zero-bundle-drift SSR/SSG apps, enterprise dashboards & sub-second reactive interfaces |
+| **🪐 3D & Spatial Graphics** | `Three.js`, `React Three Fiber`, `React Three Drei`, `WebGL Shaders`, `WebGPU`, `GSAP 3 Motion`, `Lenis Inertial Scroll` | Interactive 3D scene graphs, particle shaders, physics simulations & kinetic typography |
+| **⚡ Frontend Engineering** | `Next.js 16 (App Router, Turbopack)`, `React 19`, `TypeScript`, `Tailwind CSS v4`, `Vite`, `Modern CSS Modules` | Zero-bundle-drift SSR/SSG apps, enterprise dashboards & sub-second reactive interfaces |
 | **🛠️ Backend & Microservices** | `Node.js`, `Express.js`, `Python 3`, `FastAPI`, `EJS`, `Socket.IO`, `REST Microservices`, `JWT Authentication` | Scalable REST APIs, event-driven WebSockets, asynchronous queues & rate-limited gateways |
-| **🧠 Generative AI & Multimodal** | `Google Gemini Vision (@google/genai)`, `Whisper AI (faster-whisper)`, `Vector RAG Pipelines`, `HuggingFace API`, `Meta Audiocraft` | Real-time multimodal vision tagging, timestamped audio transcription & semantic vector RAG |
+| **🧠 Generative AI & Multimodal** | `Google Gemini Vision (@google/genai)`, `Whisper AI (faster-whisper)`, `Vector RAG Pipelines`, `HuggingFace API`, `Meta Audiocraft` | Multimodal vision tagging, timestamped audio transcription & semantic vector RAG |
 | **🗄️ Databases & Cloud Storage** | `MongoDB (Mongoose ODM)`, `PostgreSQL`, `Supabase`, `Prisma ORM`, `ImageKit Cloud CDN`, `Cloudinary CDN` | ACID transactional schemas, high-throughput document stores & edge-optimized media pipelines |
 | **🛡️ Infrastructure & Tooling** | `Docker`, `Docker-Compose`, `Git / GitHub Workflows`, `WASM (WebAssembly)`, `MediaPipe Face API`, `Linux / Bash` | Client-side WASM inference, containerized microservice deployments & CI/CD automations |
-
-<div align="center">
-  <!-- Pulsing Neon Divider -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider" />
-</div>
 
 ---
 
@@ -140,32 +101,20 @@ interface SystemsArchitect {
 > [!WARNING]
 > ### 🛡️ SECURITY AUDIT MEMORANDUM // FOR HR, RECRUITERS & ARCHITECTS
 > **SECURITY CLEARANCE**: `TOP-SECRET // CLIENT NDA PROTECTED`  
-> This portfolio hosts **56 independently engineered repositories**. To maintain strict compliance with **Enterprise Non-Disclosure Agreements (NDAs)**, Commercial Proprietary Licensing, and Platform Policies (LinkedIn, Instagram, Google Maps automation safety), **core production credentials and client recruitment backend logic remain safely isolated in private modules**.  
+> This portfolio houses **56 independently engineered repositories**. To maintain strict compliance with **Enterprise Non-Disclosure Agreements (NDAs)**, Commercial Proprietary Licensing, and Platform Policies (LinkedIn, Instagram, Google Maps automation safety), **core production credentials and client recruitment backend logic remain safely isolated in private modules**.  
 > **100% of Architectural Design Schemas, Technical Verification Specs, and Live UI Demonstrations remain fully public and inspectable.**
 
-```
-╔═════════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                      [!] SYSTEM INTEGRITY & CONFIDENTIALITY PROTOCOL [!]                            ║
-╠═════════════════════════════════════════════════════════════════════════════════════════════════════╣
-║ 01. CLIENT DATA & INTELLECTUAL PROPERTY QUARANTINE:                                                 ║
-║     Production enterprise platforms (e.g. TEN Internship ATS, Scraping Engines, Commercial SaaS)    ║
-║     involve confidential enterprise logic. In strict adherence to NDA agreements, core proprietary  ║
-║     engines are securely hosted in private infrastructure with open public architecture showcases.  ║
-║                                                                                                     ║
-║ 02. ANTI-EXPLOITATION & PLATFORM INTEGRITY:                                                         ║
-║     High-velocity intelligence pipelines are sandboxed to demonstrate algorithmic mastery without    ║
-║     violating live API rate-limits or platform ToS restrictions.                                    ║
-║                                                                                                     ║
-║ 03. FULL TRANSPARENCY & VERIFICATION:                                                              ║
-║     Every repository is verified with structured README.md, comprehensive RUN.md, and one-click     ║
-║     run launchers to evaluate engineering competency without exposing confidential client keys.     ║
-╚═════════════════════════════════════════════════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-  <!-- Pulsing Neon Divider -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider" />
-</div>
+> [!IMPORTANT]
+> ### ⚙️ SYSTEM INTEGRITY & CONFIDENTIALITY PROTOCOL
+>
+> - **01. Client Data & Intellectual Property Quarantine**  
+>   Production enterprise platforms (e.g. TEN Internship ATS, Scraping Engines, Commercial SaaS) involve confidential business logic. In strict adherence to NDA agreements, core proprietary engines are securely hosted in private infrastructure with open public architecture showcases.
+>
+> - **02. Anti-Exploitation & Platform Integrity**  
+>   High-velocity intelligence and scraping pipelines are sandboxed to demonstrate algorithmic mastery without violating live API rate-limits or platform Terms of Service (ToS).
+>
+> - **03. Transparent Architecture Verification**  
+>   Every repository is verified with structured documentation, comprehensive architectural schemas, and reproducible run guides to evaluate engineering competency.
 
 ---
 
@@ -175,7 +124,7 @@ interface SystemsArchitect {
   <tr>
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/nikhilcodeworks/ThreeJS-3D-Creative-Portfolio-2026">MISSION 01 // ThreeJS 3D Creative Portfolio</a></h3>
-      <p>Award-worthy interactive 3D creative developer portfolio featuring WebGL particle earth shader scene, Lenis inertial smooth scrolling, kinematic GSAP typography micro-interactions, and magnetic button-snapping custom cursors built on modern Next.js 16 App Router architecture.</p>
+      <p>Interactive 3D creative developer portfolio featuring WebGL particle earth shader scene, Lenis inertial smooth scrolling, kinematic GSAP typography micro-interactions, and magnetic button-snapping custom cursors built on modern Next.js 16 App Router architecture.</p>
       <p>
         <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Next.js_16-00f5d4?style=flat-square&logo=next.js&logoColor=black" />
@@ -252,11 +201,6 @@ interface SystemsArchitect {
   </tr>
 </table>
 
-<div align="center">
-  <!-- Pulsing Neon Divider -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider" />
-</div>
-
 ---
 
 ## 📦 Production Collections Hub
@@ -291,11 +235,6 @@ The ecosystem features **3 curated mega-monorepos** consolidating frontend proto
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <!-- Pulsing Neon Divider -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider" />
-</div>
 
 ---
 
@@ -381,39 +320,28 @@ The ecosystem features **3 curated mega-monorepos** consolidating frontend proto
 
 </details>
 
-<div align="center">
-  <!-- Pulsing Neon Divider -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider" />
-</div>
-
 ---
 
 ## 📊 Live Telemetry & Metrics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=nikhilcodeworks&show_icons=true&theme=cyberpunk&hide_border=true&border_radius=12" alt="Cyberpunk Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilcodeworks&theme=cyberpunk&hide_border=true&border_radius=12" alt="Cyberpunk Streak" />
-      </td>
-    </tr>
-  </table>
+
+  | Telemetry Dimension | Verified Engineering Metrics | Status |
+  | :--- | :--- | :---: |
+  | **Production Ecosystem** | `56 Independent Repositories Engineered` | `ACTIVE` |
+  | **Enterprise Showcases** | `9 Client-Sanitized Architecture Demonstrations` | `AUDITED` |
+  | **Flagship Systems** | `6 High-Fidelity WebGL & AI Platforms` | `DEPLOYED` |
+  | **Curated Monorepos** | `3 Production Megaliths (Web Labs, Python, Node)` | `ONLINE` |
+  | **Security Protocol** | `100% Client NDA Adherent & Confidential` | `LOCKED` |
 
   <br/>
-  <!-- Contribution Snake Animation -->
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" width="100%" />
 
-  <br/><br/>
-  <!-- Dynamic Cyber Quote Card -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=cyberpunk" alt="Cyber Quote Card" />
-</div>
+  <p align="center">
+    <img src="https://img.shields.io/badge/DEVELOPER_STATUS-OPEN_TO_HIRE-00f5d4?style=for-the-badge&logo=target&logoColor=black" alt="Open to hire" />
+    <img src="https://img.shields.io/badge/EXPERIENCE_LEVEL-SENIOR_ARCHITECT-7b2cbf?style=for-the-badge&logo=shield&logoColor=white" alt="Senior" />
+    <img src="https://img.shields.io/badge/CLEARANCE-NDA_COMPLIANT-ff007f?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="NDA Compliant" />
+  </p>
 
-<div align="center">
-  <!-- Pulsing Neon Divider -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Neon Divider" />
 </div>
 
 ---
@@ -436,8 +364,6 @@ The ecosystem features **3 curated mega-monorepos** consolidating frontend proto
   </a>
 
   <br/><br/>
-  <!-- 3D Spatial Animated Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24&height=120&section=footer" width="100%" alt="3D Footer" />
 
   <code>[ 🪐 3D SPATIAL TRANSMISSION COMPLETE // SECURE CONNECTION ESTABLISHED // 2026 ]</code>
 
