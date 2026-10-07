@@ -1,0 +1,11 @@
+# Local project clones & utilities
+projects/
+github-project-backup/
+GitHub-Batch-Repo-Automator-Extension/
+collections/
+tools/
+gitprofile.md
+
+# OS generated files
+.DS_Store
+Thumbs.db
